@@ -1,7 +1,6 @@
 ## C.A. Ingraham
 
-### [About](https://caingraham.github.io/about)  |  Other Thing  |  Last Thing
+###  [Education & Background](https://caingraham.github.io/background)  |  [Professional Experience](https://caingraham.github.io/professional_experience)  |  [About](https://caingraham.github.io/about)
 
 ### Skills
-### Professional Experience / Acomplishments
-### Education
+### Other Stuff
