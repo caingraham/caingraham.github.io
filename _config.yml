@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: C.A. Ingraham
+header_pages:
+  - about.md
