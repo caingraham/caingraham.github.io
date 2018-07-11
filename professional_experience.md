@@ -5,7 +5,8 @@
 ### Tier 2 Tech
 
 **HostRocket, Inc. & DotBlock**  
->  *Clifton Park, NY*
+> *Clifton Park, NY*
+
 - Tier 1 Tech, *(May 2014 - Sept 2016)*
 - Tier 2 Tech, *(Sept 2016 - present)* 
 
