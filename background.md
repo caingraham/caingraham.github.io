@@ -4,6 +4,8 @@
 
 [background text]
 
+### Academics
+
 #### University at Albany, SUNY (2010 - 2012) -- *Literature and Philosophy*
 #### Hudson Valley Community College (2008 - 2010) -- *Independent Studies*
 
