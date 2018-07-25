@@ -4,6 +4,10 @@
 
 [background text]
 
+I use services like Brilliant, DataQuest, and SkillShare to develop my skillset.
+
+I've been active on Citizen Science / Citizen History projects on the [Zooniverse.org](https://www.zooniverse.org/) platform, such as [this project](https://www.zooniverse.org/projects/usct/african-american-civil-war-soldiers) to help transcribe military records of African American soldiers in the American Civil War.
+
 ### Academics
 
 #### University at Albany, SUNY (2010 - 2012) -- *Literature and Philosophy*
