@@ -23,6 +23,3 @@ Currently, I’m fascinated by systems theory and complex systems design. In my 
 
 - To sight-read ancient Phoneician and Koine Greek scripts
 - TensorFlow & Machine Learning concepts
-
-
-[1]:http://www.quotedb.com/quotes/2112
