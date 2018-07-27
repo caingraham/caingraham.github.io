@@ -2,7 +2,13 @@
 
 ## About Me
 
-[About Me]
+I'm a philosopher, technologist, and polymath.
+
+I like to think I straddle that fine line between creative and technical. I enjoy speculating about future tech. If decide I need to know a skill in order to do something right, then I teach myself that skill. I’m a big fan of the 5-hour rule (if you’re not spending 5+ hours a week learning something new, you’re being irresponsible).
+
+I would fit best in a role that would benefit from a creative, multidisciplinary perspective, and where I can channel my talent into meaningful contributions toward a .
+
+Currently, I’m fascinated by systems theory and complex systems design. In my free time, I gamemaster a Dungeons and Dragons campaign and play in several others, and I’m teaching myself data science and machine learning concepts.
 
 ### Fun Facts
 
