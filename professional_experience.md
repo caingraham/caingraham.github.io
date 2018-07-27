@@ -2,6 +2,8 @@
 
 ## Professional Experience
 
+### Employment
+
 ### Tier 2 Tech
 
 **HostRocket, Inc. & DotBlock**  
@@ -24,3 +26,23 @@
 * Researched and planned migration of internal documentation to a more flexible software; removed or updated outdated content; and composed a large volume of articles containing information which had previously been undocumented.
 * Restructured ticket system departments and support procedures to standardize and streamline policies, contributing to reduced ticket volume and response time, as well as helping techs more easily determine effective solutions.
 * Revised the training procedure to improve the speed and accuracy of onboarding new techs.
+
+### Skillset & Technologies
+
+#### Server Administration
+
+>CentOS/RHEL Administration | cPanel/WHM | CloudLinux/CageFS | Bash Scripting
+>
+>Puppet | Pandora FMS | Observium | SolusVM | KVM Virtualization
+>
+>Exim | Dovecot | SpamAssassin | MailScanner
+>
+>ConfigServer Products | R1Soft | ModSecurity | OSSEC
+
+#### Programming & Data Science
+
+>Python | Pandas | NumPy | Jupyter
+
+#### Currently Working On Learning
+
+>GitHub | Docker | TensorFlow | Amazon AWS 
