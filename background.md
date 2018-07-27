@@ -6,7 +6,7 @@ I originally went to school for literature and philosophy, but life circumstance
 
 What I learned from these last few years is that the act of learning itself is a skill that can be developed, and I no longer have any doubt that I can teach myself any new concept so long as I can find the right approach. While traditional school was a valuable experience, I've found much more success integrating daily learning into my lifestyle and consider myself a lifelong, constant student.
 
-I use services like Brilliant, DataQuest, and SkillShare to develop my skillset, along with keeping a healthy dose of 'edutainment' YouTube channels in my subscription list, operating under the 'Garbage In, Garbage Out' concept.
+I use services like Brilliant, DataQuest, and SkillShare to develop my skillset, along with keeping a healthy dose of 'edutainment' YouTube channels in my subscription list, operating under the 'Garbage In, Garbage Out' principle.
 
 Because of this background, I'm passionate about the open source / open access movement and I contribute to a number of educational content creators through Patreon. I've been active on Citizen Science / Citizen History projects on the [Zooniverse.org](https://www.zooniverse.org/) platform, such as [this project](https://www.zooniverse.org/projects/usct/african-american-civil-war-soldiers) to help transcribe military records of African American soldiers in the American Civil War.
 
