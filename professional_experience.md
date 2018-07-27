@@ -2,8 +2,6 @@
 
 ## Professional Experience
 
-### Employment
-
 ### Tier 2 Tech
 
 **HostRocket, Inc. & DotBlock**  
@@ -32,11 +30,11 @@
 #### Server Administration
 
 >CentOS/RHEL Administration | cPanel/WHM | CloudLinux/CageFS | Bash Scripting
->
+
 >Puppet | Pandora FMS | Observium | SolusVM | KVM Virtualization
->
+
 >Exim | Dovecot | SpamAssassin | MailScanner
->
+
 >ConfigServer Products | R1Soft | ModSecurity | OSSEC
 
 #### Programming & Data Science
