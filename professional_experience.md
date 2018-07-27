@@ -43,4 +43,4 @@
 
 #### Currently Working On Learning
 
->GitHub | Docker | TensorFlow | Amazon AWS 
+>GitHub | Docker | Amazon AWS | TensorFlow
