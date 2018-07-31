@@ -9,7 +9,7 @@ theme: jekyll-theme-architect
 
 I'm a philosopher, technologist, and polymath.
 
-I enjoy speculating about future tech. If find I need to know a skill in order to do something right, then I teach myself that skill. I’m a big fan of the 5-hour rule (if you’re not spending 5+ hours a week learning something new, you’re being irresponsible).
+I enjoy speculating about future tech. If I find I need to know a skill in order to do something right, then I teach myself that skill. I’m a big fan of the 5-hour rule (if you’re not spending 5+ hours a week learning something new, you’re being irresponsible).
 
 I would fit best in a role that would benefit from a creative, multidisciplinary perspective, and where I can channel my talent into meaningful contributions and innovations.
 
